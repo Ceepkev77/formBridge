@@ -1,0 +1,6 @@
+name: FormBridge
+author: "iTzFreeHD - Altay Library"
+api: ["4.0.0", "3.0.0"]
+main: formBridge\Main
+version: 0.1
+loadbefore: STARTUP
